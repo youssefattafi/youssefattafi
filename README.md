@@ -6,6 +6,12 @@ I'm a technology professional with a **B.S. in Information Technology — Progra
 
 I enjoy transforming raw data into actionable insights and building interactive AI applications that solve real-world problems.
 
+## 👨‍💻 About Me
+
+I'm a **Data Scientist and AI Engineer** with a B.S. in Information Technology (Programming & Software Development) from Purdue University Global. I build end-to-end Python projects spanning data analysis, machine learning, NLP, REST APIs, and interactive dashboards. My portfolio includes three live applications demonstrating real-world datasets, model evaluation, and deployment.
+
+**Explore my work:** [Live Pharmaceutical Forecasting AI](https://pharma-sales-forecasting-ai.streamlit.app/) · [Pharmaceutical AI API](https://pharma-forecast-api-vews.onrender.com/docs) · [Amazon Sentiment AI](https://amazon-review-sentiment-ai.streamlit.app/) · [Hotel Booking Analytics](https://hotel-booking-analytics-ai.streamlit.app/)
+
 ## ⭐ Featured Portfolio — Live Projects
 
 | Project | What it demonstrates | Live demo | Source code |
