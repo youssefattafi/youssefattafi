@@ -6,6 +6,18 @@ I'm a technology professional with a **B.S. in Information Technology — Progra
 
 I enjoy transforming raw data into actionable insights and building interactive AI applications that solve real-world problems.
 
+## ⭐ Featured Portfolio — Live Projects
+
+| Project | What it demonstrates | Live demo | Source code |
+|---|---|---|---|
+| **Pharmaceutical Sales Forecasting & AI API** | Time-series ML, Random Forest, walk-forward validation, FastAPI, Render, Streamlit | [Launch forecasting app](https://pharma-sales-forecasting-ai.streamlit.app/) · [API docs](https://pharma-forecast-api-vews.onrender.com/docs) | [GitHub repository](https://github.com/youssefattafi/Pharmaceutical-Sales-Forecasting) |
+| **Amazon Review Sentiment AI** | NLP, TF-IDF, Logistic Regression, model evaluation and deployment | [Try sentiment classifier](https://amazon-review-sentiment-ai.streamlit.app/) | [GitHub repository](https://github.com/youssefattafi/Amazon-Fine-Food-Reviews-Analysis) |
+| **Hotel Booking Analytics** | Data cleaning, exploratory analysis, interactive business intelligence | [Explore hotel dashboard](https://hotel-booking-analytics-ai.streamlit.app/) | [GitHub repository](https://github.com/youssefattafi/Hotel-Booking-Data-Analysis) |
+
+**Start here:** [Pharmaceutical AI live dashboard](https://pharma-sales-forecasting-ai.streamlit.app/) — [FastAPI documentation](https://pharma-forecast-api-vews.onrender.com/docs) — [Code and technical README](https://github.com/youssefattafi/Pharmaceutical-Sales-Forecasting).
+
+> The pharmaceutical forecasts are a historical 2019 demonstration, not current demand predictions.
+
 ## 🚀 Featured Projects
 
 ### 🧠 Amazon Fine Food Reviews — Sentiment Analysis AI
@@ -67,4 +79,4 @@ Computer Science, Data Science & Artificial Intelligence Training
 
 [GitHub Portfolio](https://github.com/youssefattafi)
 
-[Amazon Sentiment AI](https://amazon-review-sentiment-ai.streamlit.app/) | [Hotel Booking Analytics](https://hotel-booking-analytics-ai.streamlit.app/)
+[Pharmaceutical Forecasting AI](https://pharma-sales-forecasting-ai.streamlit.app/) | [FastAPI Docs](https://pharma-forecast-api-vews.onrender.com/docs) | [Amazon Sentiment AI](https://amazon-review-sentiment-ai.streamlit.app/) | [Hotel Booking Analytics](https://hotel-booking-analytics-ai.streamlit.app/)
